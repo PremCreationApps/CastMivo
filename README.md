@@ -42,11 +42,23 @@ Category| Screen Casting
 5. Approve the screen-capture request.
 6. Start screen casting.
 
-🎬 Demo Video
+## 🎬 Demo Video - CastMivo
 
-Watch the CastMivo demonstration:
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=J3YxPcYkXaU">
+    <img
+      src="https://img.youtube.com/vi/J3YxPcYkXaU/hqdefault.jpg"
+      alt="Prem Creation Apps Store Video Demo"
+      width="600"
+    />
+  </a>
+</p>
 
-"Watch CastMivo on YouTube" (ADD_YOUTUBE_VIDEO_LINK)
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=J3YxPcYkXaU">
+    ▶ Watch the Video Demo on YouTube
+  </a>
+</p>
 
 📥 Download
 
