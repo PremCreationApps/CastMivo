@@ -89,7 +89,9 @@ CastMivo Privacy Policy: https://prem-creation-apps-store.blogspot.com/p/castmiv
 
 Prem Creation develops useful Android applications with a focus on simple interfaces and practical features.
 
-Website: https://prem-creation-apps-store.blogspot.com
+👨‍💻 Developer
+
+Blogger site: https://prem-creation-apps-store.blogspot.com
 
 📩 Support
 
