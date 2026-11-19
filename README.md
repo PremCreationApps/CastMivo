@@ -65,7 +65,7 @@ https://premcreationapps.github.io/Prem-Creation
 
 ## 📥 Download
 
-[⬇️ Download CastMivo 1.0]()
+[⬇️ Download CastMivo 1.0](https://github.com/PremCreationApps/CastMivo/releases/download/v1.0/CastMivo.1.0.apk)
 
 🔐 Permissions & Safety
 
@@ -82,7 +82,7 @@ Permissions depend on the Android version and implemented features.
 
 Read our privacy policy:
 
-"CastMivo Privacy Policy" (ADD_PRIVACY_POLICY_LINK)
+"CastMivo Privacy Policy" (https://prem-creation-apps-store.blogspot.com/p/castmivo-privacy-policy.html)
 
 🌐 About Prem Creation
 
