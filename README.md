@@ -81,9 +81,9 @@ Permissions depend on the Android version and implemented features.
 
 🔒 Privacy Policy
 
-Read our privacy policy:
+Read our privacy policy
 
-"CastMivo Privacy Policy" (https://prem-creation-apps-store.blogspot.com/p/castmivo-privacy-policy.html)
+CastMivo Privacy Policy: https://prem-creation-apps-store.blogspot.com/p/castmivo-privacy-policy.html
 
 🌐 About Prem Creation
 
